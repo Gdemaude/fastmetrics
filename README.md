@@ -1,5 +1,5 @@
 # python_fastssim
-This is an implementation of the Structural Similarity Index based on the skimage implementation: [https://github.com/scikit-image/scikit-image] but using the library numexpr: [https://github.com/pydata/numexpr] 
+This is a python3 implementation of the Structural Similarity Index based on the skimage implementation: [https://github.com/scikit-image/scikit-image] but using the library numexpr: [https://github.com/pydata/numexpr] to improve performance.
 
 This reimplementation is around 25% faster than the skimage implementation (tested with i5-7300HQ CPU and 8GB of RAM). 
 
