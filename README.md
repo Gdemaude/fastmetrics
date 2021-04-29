@@ -10,3 +10,7 @@ The MS-SSIM isn't implemented in skimage. This implementation is based on the te
 Requirements: scikit-image >= 0.17.2, numexpr >= 2.7.1
 
 This package does not use the GPU, it is only a CPU implementation.
+
+# Installation
+
+pip install git+https://github.com/ricardolsmendes/python-package-cheat-sheet
