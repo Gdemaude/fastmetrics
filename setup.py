@@ -9,7 +9,7 @@ setuptools.setup(
     platforms='Posix; MacOS X; Windows',
     packages=setuptools.find_packages(where='./fastmetrics'),
     package_dir={
-        '': 'fastnmetrics'
+        '': 'fastmetrics'
     },
     include_package_data=True,
     install_requires=(
