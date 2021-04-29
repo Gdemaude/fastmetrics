@@ -13,4 +13,4 @@ This package does not use the GPU, it is only a CPU implementation.
 
 # Installation
 
-pip install git+https://github.com/Gdemaude/fastmetrics.git
+pip install git+https://github.com/Gdemaude/fastmetrics
